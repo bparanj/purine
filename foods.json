@@ -1,0 +1,650 @@
+[
+  {
+    "Food": "Milk, cow",
+    "Purine": 2
+  },
+  {
+    "Food": "Cheese, Cheddar/Cheshire cheese, 50% fat content",
+    "Purine": 6
+  },
+  {
+    "Food": "Cherry, sweet",
+    "Purine": 7.1
+  },
+  {
+    "Food": "Cheese, edam, 30% fat content in dry matter",
+    "Purine": 7.1
+  },
+  {
+    "Food": "Cheese, edam, 45% fat content in dry matter",
+    "Purine": 7.1
+  },
+  {
+    "Food": "Cucumber",
+    "Purine": 7.3
+  },
+  {
+    "Food": "Cheese, edam, 40% fat content in dry matter",
+    "Purine": 7.1
+  },
+  {
+    "Food": "Yogurt, min. 3.5% fat content",
+    "Purine": 8.1
+  },
+  {
+    "Food": "Cheese, cottage",
+    "Purine": 9.4
+  },
+  {
+    "Food": "Tomato, red, raw",
+    "Purine": 11
+  },
+  {
+    "Food": "Tomato",
+    "Purine": 11
+  },
+  {
+    "Food": "Pear, raw",
+    "Purine": 12
+  },
+  {
+    "Food": "Rhubarb",
+    "Purine": 12
+  },
+  {
+    "Food": "Pear",
+    "Purine": 12
+  },
+  {
+    "Food": "Chicory",
+    "Purine": 12
+  },
+  {
+    "Food": "Onion, raw",
+    "Purine": 13
+  },
+  {
+    "Food": "Lettuce, green leaf",
+    "Purine": 13
+  },
+  {
+    "Food": "Radishes",
+    "Purine": 13
+  },
+  {
+    "Food": "Lettuce",
+    "Purine": 13
+  },
+  {
+    "Food": "Onion",
+    "Purine": 13
+  },
+  {
+    "Food": "Yogurt, plain, low fat",
+    "Purine": 14
+  },
+  {
+    "Food": "Fennel leaves",
+    "Purine": 14
+  },
+  {
+    "Food": "Apple",
+    "Purine": 14
+  },
+  {
+    "Food": "Radish",
+    "Purine": 15
+  },
+  {
+    "Food": "Potato, raw",
+    "Purine": 16
+  },
+  {
+    "Food": "Potato",
+    "Purine": 16
+  },
+  {
+    "Food": "Sauerkraut, dripped off",
+    "Purine": 16
+  },
+  {
+    "Food": "Gooseberry",
+    "Purine": 16
+  },
+  {
+    "Food": "Mushrooms, Chanterelles, canned, solids & liquids",
+    "Purine": 17
+  },
+  {
+    "Food": "Mushrooms, Chanterelle",
+    "Purine": 17
+  },
+  {
+    "Food": "Endive",
+    "Purine": 17
+  },
+  {
+    "Food": "Carrots, raw",
+    "Purine": 17
+  },
+  {
+    "Food": "Currant, red",
+    "Purine": 17
+  },
+  {
+    "Food": "Carrot",
+    "Purine": 17
+  },
+  {
+    "Food": "Cherry, Morello",
+    "Purine": 17
+  },
+  {
+    "Food": "Potato, cooked with skin",
+    "Purine": 18
+  },
+  {
+    "Food": "Raspberry",
+    "Purine": 18
+  },
+  {
+    "Food": "Orange, raw",
+    "Purine": 19
+  },
+  {
+    "Food": "Orange",
+    "Purine": 19
+  },
+  {
+    "Food": "Celery",
+    "Purine": 19
+  },
+  {
+    "Food": "Beetroot",
+    "Purine": 19
+  },
+  {
+    "Food": "Celery, raw",
+    "Purine": 19
+  },
+  {
+    "Food": "Kiwifruit (Chinese gooseberry, strawberry peach)",
+    "Purine": 19
+  },
+  {
+    "Food": "Avocado",
+    "Purine": 19
+  },
+  {
+    "Food": "Pineapple",
+    "Purine": 19
+  },
+  {
+    "Food": "Rolls, bread",
+    "Purine": 21
+  },
+  {
+    "Food": "Peach",
+    "Purine": 21
+  },
+  {
+    "Food": "Blackberry",
+    "Purine": 21
+  },
+  {
+    "Food": "Strawberry, raw",
+    "Purine": 21
+  },
+  {
+    "Food": "Chinese leaves",
+    "Purine": 21
+  },
+  {
+    "Food": "Cheese, Camembert",
+    "Purine": 21
+  },
+  {
+    "Food": "Cheese, Brie",
+    "Purine": 21
+  },
+  {
+    "Food": "Strawberry",
+    "Purine": 21
+  },
+  {
+    "Food": "Rice, white, raw",
+    "Purine": 23
+  },
+  {
+    "Food": "Nuts, Brazil",
+    "Purine": 23
+  },
+  {
+    "Food": "Asparagus",
+    "Purine": 23
+  },
+  {
+    "Food": "Squash, summer",
+    "Purine": 24
+  },
+  {
+    "Food": "Plum",
+    "Purine": 24
+  },
+  {
+    "Food": "Nuts, Walnut",
+    "Purine": 25
+  },
+  {
+    "Food": "Kohlrabi",
+    "Purine": 25
+  },
+  {
+    "Food": "Grapes, black",
+    "Purine": 27
+  },
+  {
+    "Food": "Grape",
+    "Purine": 27
+  },
+  {
+    "Food": "Grapes, white",
+    "Purine": 27
+  },
+  {
+    "Food": "Cress",
+    "Purine": 28
+  },
+  {
+    "Food": "Watermelon, raw",
+    "Purine": 28
+  },
+  {
+    "Food": "Zucchini",
+    "Purine": 28
+  },
+  {
+    "Food": "Mushrooms, canned, solid and liquid",
+    "Purine": 29
+  },
+  {
+    "Food": "Olive, green, marinated",
+    "Purine": 29
+  },
+  {
+    "Food": "Quince",
+    "Purine": 30
+  },
+  {
+    "Food": "Morel",
+    "Purine": 30
+  },
+  {
+    "Food": "Blueberry",
+    "Purine": 32
+  },
+  {
+    "Food": "Cheese, Limburger, 20% fat content in dry matter",
+    "Purine": 32
+  },
+  {
+    "Food": "Walnuts, kernels",
+    "Purine": 33
+  },
+  {
+    "Food": "Elderberry, black",
+    "Purine": 33
+  },
+  {
+    "Food": "Walnuts, raw",
+    "Purine": 33
+  },
+  {
+    "Food": "Melon, Cantaloupe",
+    "Purine": 33
+  },
+  {
+    "Food": "Date, dried",
+    "Purine": 35
+  },
+  {
+    "Food": "Garlic, raw",
+    "Purine": 37
+  },
+  {
+    "Food": "Nuts, hazelnut (cobnut)",
+    "Purine": 37
+  },
+  {
+    "Food": "Bread, white",
+    "Purine": 38
+  },
+  {
+    "Food": "Lettuce, Lamb",
+    "Purine": 38
+  },
+  {
+    "Food": "Watercress",
+    "Purine": 39
+  },
+  {
+    "Food": "Pasta made with egg (noodles, macaroni, spaghetti)",
+    "Purine": 40
+  },
+  {
+    "Food": "Wheat flour, white (industrial), 9% protein, bleached",
+    "Purine": 40
+  },
+  {
+    "Food": "Pasta, noodles, dry",
+    "Purine": 40
+  },
+  {
+    "Food": "Wheat flour, whole-grain",
+    "Purine": 41
+  },
+  {
+    "Food": "Pumpkin",
+    "Purine": 44
+  },
+  {
+    "Food": "Cabbage",
+    "Purine": 45
+  },
+  {
+    "Food": "Wheat, whole grain",
+    "Purine": 46
+  },
+  {
+    "Food": "Bread, whole grain",
+    "Purine": 48
+  },
+  {
+    "Food": "Kale",
+    "Purine": 48
+  },
+  {
+    "Food": "Oyster, mushroom",
+    "Purine": 50
+  },
+  {
+    "Food": "Rye, whole grain",
+    "Purine": 51
+  },
+  {
+    "Food": "Cauliflower",
+    "Purine": 51
+  },
+  {
+    "Food": "Wheat, whole grain",
+    "Purine": 51
+  },
+  {
+    "Food": "Cauliflower, raw",
+    "Purine": 51
+  },
+  {
+    "Food": "Egg, chicken, whole, raw",
+    "Purine": 52
+  },
+  {
+    "Food": "Corn, sweet",
+    "Purine": 52
+  },
+  {
+    "Food": "Peppers, green",
+    "Purine": 55
+  },
+  {
+    "Food": "Pudding, black",
+    "Purine": 55
+  },
+  {
+    "Food": "Spinach, raw",
+    "Purine": 57
+  },
+  {
+    "Food": "Spinach",
+    "Purine": 57
+  },
+  {
+    "Food": "Parsley, leaf",
+    "Purine": 57
+  },
+  {
+    "Food": "Banana",
+    "Purine": 57
+  },
+  {
+    "Food": "Mushroom",
+    "Purine": 58
+  },
+  {
+    "Food": "Crispbread",
+    "Purine": 60
+  },
+  {
+    "Food": "Fish, Crayfish",
+    "Purine": 60
+  },
+  {
+    "Food": "Millet, shucked corn",
+    "Purine": 62
+  },
+  {
+    "Food": "Sesame (gingelly) seed, Oriental, dry",
+    "Purine": 62
+  },
+  {
+    "Food": "Fig (dried)",
+    "Purine": 64
+  },
+  {
+    "Food": "Plum, dried",
+    "Purine": 64
+  },
+  {
+    "Food": "Chives",
+    "Purine": 67
+  },
+  {
+    "Food": "Tofu",
+    "Purine": 68
+  },
+  {
+    "Food": "Brussels sprouts",
+    "Purine": 69
+  },
+  {
+    "Food": "Brussels sprouts, raw",
+    "Purine": 69
+  },
+  {
+    "Food": "Meat, luncheon",
+    "Purine": 70
+  },
+  {
+    "Food": "Grass, Viper (black salsify)",
+    "Purine": 71
+  },
+  {
+    "Food": "Cocoa powder, oil partially removed",
+    "Purine": 71
+  },
+  {
+    "Food": "Apricot",
+    "Purine": 73
+  },
+  {
+    "Food": "Leek",
+    "Purine": 74
+  },
+  {
+    "Food": "Leek, raw",
+    "Purine": 74
+  },
+  {
+    "Food": "Ox brain",
+    "Purine": 75
+  },
+  {
+    "Food": "Rice, brown, raw",
+    "Purine": 78
+  },
+  {
+    "Food": "Fish, eel (smoked)",
+    "Purine": 78
+  },
+  {
+    "Food": "Sausage, beef, raw",
+    "Purine": 78
+  },
+  {
+    "Food": "Artichoke, raw",
+    "Purine": 78
+  },
+  {
+    "Food": "Nuts, peanut",
+    "Purine": 79
+  },
+  {
+    "Food": "Peanuts, raw",
+    "Purine": 79
+  },
+  {
+    "Food": "Peas, green, raw",
+    "Purine": 79
+  },
+  {
+    "Food": "Tench",
+    "Purine": 80
+  },
+  {
+    "Food": "Broccoli",
+    "Purine": 81
+  },
+  {
+    "Food": "Broccoli, raw",
+    "Purine": 81
+  },
+  {
+    "Food": "Pig's brain",
+    "Purine": 83
+  },
+  {
+    "Food": "Pea, pod and seed, green",
+    "Purine": 84
+  },
+  {
+    "Food": "Frankfurter sausages",
+    "Purine": 89
+  },
+  {
+    "Food": "Oyster",
+    "Purine": 90
+  },
+  {
+    "Food": "Mushroom, flat, edible Boletus",
+    "Purine": 92
+  },
+  {
+    "Food": "Corn, dried",
+    "Purine": 92
+  },
+  {
+    "Food": "Plaice",
+    "Purine": 93
+  },
+  {
+    "Food": "Oats, without husk, whole grain",
+    "Purine": 94
+  },
+  {
+    "Food": "Pea, seed, dry",
+    "Purine": 95
+  },
+  {
+    "Food": "Sausage",
+    "Purine": 96
+  },
+  {
+    "Food": "Barley, whole grain",
+    "Purine": 96
+  },
+  {
+    "Food": "Beef, raw",
+    "Purine": 110
+  },
+  {
+    "Food": "Beef, lean meat only, raw",
+    "Purine": 110
+  },
+  {
+    "Food": "Sausage, pork, raw",
+    "Purine": 110
+  },
+  {
+    "Food": "Zander",
+    "Purine": 110
+  },
+  {
+    "Food": "Beef, raw",
+    "Purine": 110
+  },
+  {
+    "Food": "Whiting, raw",
+    "Purine": 115
+  },
+  {
+    "Food": "Trout, rainbow, farmed, raw",
+    "Purine": 119
+  },
+  {
+    "Food": "Beans, kidney, raw",
+    "Purine": 128
+  },
+  {
+    "Food": "Beans, dried",
+    "Purine": 128
+  },
+  {
+    "Food": "Haddock, raw",
+    "Purine": 139
+  },
+  {
+    "Food": "Tuna, raw",
+    "Purine": 139
+  },
+  {
+    "Food": "Pork, lean meat only, raw",
+    "Purine": 145
+  },
+  {
+    "Food": "Turkey, meat and skin, raw",
+    "Purine": 150
+  },
+  {
+    "Food": "Veal, lean meat only, raw",
+    "Purine": 152
+  },
+  {
+    "Food": "Chicken, meat and skin, raw",
+    "Purine": 165
+  },
+  {
+    "Food": "Herring, raw",
+    "Purine": 210
+  },
+  {
+    "Food": "Squid, raw",
+    "Purine": 220
+  },
+  {
+    "Food": "Egg, chicken, yolk, raw",
+    "Purine": 230
+  },
+  {
+    "Food": "Tuna, canned in oil, drained",
+    "Purine": 290
+  }
+]
